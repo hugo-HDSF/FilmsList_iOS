@@ -50,10 +50,10 @@
 * [Acknowledgements](#acknowledgements)
 
 ## About The Project
-
-![Screen Shot](https://github.com/hugo-HDSF/FilmsList_iOS/blob/main/assets/videos/exemple.mp4)
-
-  This App is a Films List management App for personal use and allows you to all the films you've seen or want to see with the ability to filter them by title, year and added date.
+<div align="center">
+  <img src="assets/videos/example.gif" height="500">
+</div>
+This App is a Films List management App for personal use and allows you to all the films you've seen or want to see with the ability to filter them by title, year and added date.
 
 ## Implementation
 
@@ -96,8 +96,6 @@ cd FilmsList_iOS
 ```Shell
 pod install
 ```
-
----
 
 ## Roadmap
 
