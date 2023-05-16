@@ -26,8 +26,9 @@
 <div align="center">
 
 ![iOS](https://img.shields.io/badge/-iOS_15.0-000000?logo=apple&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift_5.5-FA7343?logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI_3.0-FA7343?logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift_5.5-FA7343?logo=swift&logoColor=white)
+![Realm](https://img.shields.io/badge/-Realm_10.11-39477F?logo=realm&logoColor=white)
 ![Xcode](https://img.shields.io/badge/-Xcode_13.0-1575F9?logo=xcode&logoColor=white)
 
 </div>
