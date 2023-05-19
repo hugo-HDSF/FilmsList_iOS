@@ -111,4 +111,4 @@ Distributed under the MIT License.
 * [Simple Icons](https://simpleicons.org/)
 * [Readme Generator](https://readme.shaankhan.dev/)
 
-###### _Personal Project | 2022-2023_
+###### _Personal Project | 2023_
