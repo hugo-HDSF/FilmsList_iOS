@@ -15,7 +15,7 @@
       Films List is an iOS App using SwiftUI. This App is a Films List management App for personal use.
 </p> 
     <p align="center">
-        <a href="https://github.com/hugo-HDSF/FilmsList_iOS/assets/videos/blob/master/exemple.gif"><strong>View Exemple »</strong></a>
+        <a href="https://github.com/hugo-HDSF/FilmsList_iOS/blob/main/assets/videos/exemple.gif"><strong>View Exemple »</strong></a>
         .
         <a href="https://github.com/hugo-HDSF/FilmsList_iOS/issues">Report Bug</a>
         .
