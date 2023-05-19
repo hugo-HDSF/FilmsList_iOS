@@ -12,7 +12,7 @@
 
 <p align="center">
   <p align="center">
-      Films List is a iOS App using SwiftUI. This App is an Films List management App for personal use.
+      Films List is an iOS App using SwiftUI. This App is a Films List management App for personal use.
 </p> 
     <p align="center">
         <a href="https://github.com/hugo-HDSF/FilmsList_iOS/assets/videos/blob/master/exemple.gif"><strong>View Exemple »</strong></a>
@@ -53,7 +53,7 @@
 <div align="center">
   <img src="https://github.com/hugo-HDSF/FilmsList_iOS/blob/main/assets/videos/exemple.gif" height="500">
 </div>
-This App is a Films List management App for personal use and allows you to all the films you've seen or want to see with the ability to filter them by title, year and added date.
+This App is a Films List management App for personal use and allows you to list all the films you've seen or want to see with the ability to filter them by title, year and added date.
 
 ## Built With
 
