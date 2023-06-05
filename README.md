@@ -1,6 +1,6 @@
 <p align="center">
     <a>
-        <img src="src/public/logo.svg" alt="Logo" width="250" >
+        <img src="https://github.com/hugo-HDSF/FilmsList_iOS/blob/main/assets/images/logo.png" alt="Logo" width="250" >
     </a>
 </p>
 
@@ -19,7 +19,7 @@
         .
         <a href="https://github.com/hugo-HDSF/FilmsList_iOS/issues">Report Bug</a>
         .
-        <img src="https://img.shields.io/github/license/ucan-lab/docker-laravel" alt="License" height="15">
+        <img src="https://img.shields.io/github/license/hugo-HDSF/FilmsList_iOS" alt="License" height="15">
     </p>
 </p>
 
