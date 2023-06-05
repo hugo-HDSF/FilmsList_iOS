@@ -1,6 +1,6 @@
 <p align="center">
     <a>
-        <img src="https://github.com/hugo-HDSF/FilmsList_iOS/blob/main/assets/images/logo.png" alt="Logo" width="250" >
+        <img src="https://github.com/hugo-HDSF/FilmsList_iOS/blob/main/assets/images/logo.png" alt="Logo" width="80" >
     </a>
 </p>
 
